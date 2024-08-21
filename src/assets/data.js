@@ -1,0 +1,42 @@
+export const data = [
+  {
+    question: "Which country has won the most ICC Cricket World Cups?",
+    option1: "Australia",
+    option2: "India",
+    option3: "West Indies",
+    option4: "England",
+    ans: 1,
+  },
+  {
+    question: "Who holds the record for the most runs in Test cricket?",
+    option1: "Brian Lara",
+    option2: "Ricky Ponting",
+    option3: "Sachin Tendulkar",
+    option4: "Jacques Kallis",
+    ans: 3,
+  },
+  {
+    question: "What is the maximum number of overs a bowler can bowl in a T20 match?",
+    option1: "4",
+    option2: "6",
+    option3: "8",
+    option4: "10",
+    ans: 1,
+  },
+  {
+    question: "Which cricketer is known as 'The Wall'?",
+    option1: "Rahul Dravid",
+    option2: "Sourav Ganguly",
+    option3: "Jacques Kallis",
+    option4: "Steve Waugh",
+    ans: 1,
+  },
+  {
+    question: "What is the term for when a batsman scores 100 runs in a single innings?",
+    option1: "Century",
+    option2: "Double Century",
+    option3: "Half-Century",
+    option4: "Ton",
+    ans: 1,
+  },
+];
