@@ -1,4 +1,4 @@
-🏏 Cricket Quiz App
+##🏏 Cricket Quiz App
 A fun and interactive Cricket Quiz App built with HTML, CSS, and JavaScript. This app tests your knowledge of cricket basics with a series of multiple-choice questions. Whether you're a casual fan or a cricket enthusiast, this quiz offers a great way to challenge your understanding of the game.
 
 Features
